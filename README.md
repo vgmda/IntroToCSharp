@@ -1,1 +1,1 @@
-# Program for testing GIT in Visual Studio (c#)
+# Program for testing GIT in Visual Studio (C#)
