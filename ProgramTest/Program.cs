@@ -1,3 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("C5#!");
+﻿namespace ProgramTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World");
+        }
+    }
 
+}
