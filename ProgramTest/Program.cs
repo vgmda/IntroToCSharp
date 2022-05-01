@@ -1,4 +1,5 @@
-﻿namespace ProgramTest
+﻿using System;
+namespace ProgramTest
 {
     class Program
     {
@@ -8,12 +9,13 @@
             int characterAge;
             characterAge = 35;
 
-            Console.WriteLine("There once was a man named");
-            Console.WriteLine("He was 35 years old");
-            Console.WriteLine("He really like the name John");
-            Console.WriteLine("But didnt like being 35");
 
+            Console.WriteLine("There once was a man named " + characterName);
+            Console.WriteLine("He was " + characterAge + " years old");
+            Console.WriteLine("He really like the name " + characterName);
+            Console.WriteLine("But didn't like being " + characterAge);
         }
+
     }
 
 }
