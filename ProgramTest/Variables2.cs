@@ -5,7 +5,7 @@ namespace ProgramTest
     {
         public EmptyClass()
         {
-            string phrase = "Test";
+            string phrase = "Test2";
 
         }
     }

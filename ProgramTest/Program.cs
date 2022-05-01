@@ -7,7 +7,7 @@ namespace ProgramTest
         {
             string characterName = "John";
             int characterAge;
-            characterAge = 35;
+            characterAge = 40;
 
 
             Console.WriteLine("There once was a man named " + characterName);
