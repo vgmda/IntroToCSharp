@@ -1,13 +1,23 @@
 ﻿using System;
 namespace ProgramTest
 {
-    public class EmptyClass
+    class EmptyClass
     {
-        public EmptyClass()
+
+        static void Main(string[] args)
         {
             string phrase = "Test2";
+            char grade = 'C';
+            int age = 30;
+            double gpa = 3.2;
+            bool isMale = true;
+
+
+            Console.WriteLine(phrase.Length);
 
         }
+
+
     }
 }
 
