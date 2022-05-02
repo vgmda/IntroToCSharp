@@ -1,4 +1,4 @@
-# Introduction to C# (Basics)
+# Introduction to C# (Basics) using VS
 
 ### Topics covered:
 
@@ -24,8 +24,13 @@
 8. Arrays
     - Declare arrays
     - Alter the indexes of an array
-15. Methods
-16. Return Statement
+9. Methods
+    - How to declare methods
+    - Type of methods (Virtual method, Partial methods, Extension method, Static method, Instance method)
+10. Return Statement
+    - Return the arguments based on the method type
+    - List the arguments in parentheses
+    - Call the method inside main()
 17. If Statements
 18. If Statements (con't)
 19. Building a Better Calculator
