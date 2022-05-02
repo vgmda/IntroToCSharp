@@ -39,21 +39,26 @@ namespace ProgramTest
 
 
             // Return the biggest number out of two
-            Console.WriteLine(GetMax(2, 10));
+            Console.WriteLine(GetMax(2, 10, 999));
 
-            static int GetMax(int num1, int num2)
+            static int GetMax(int num1, int num2, int num3)
             {
+
                 int result;
 
-                if (num1 > num2)
+
+                if (num1 >= num2 && num1 >= num3)
                 {
                     result = num1;
                 }
-                else
+                else if (num2 >= num1 && num2 >= num3)
                 {
                     result = num2;
                 }
-
+                else
+                {
+                    result = num3;
+                }
                 return result;
             }
 
