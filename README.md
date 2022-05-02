@@ -37,26 +37,32 @@
 12. If Statements (con't)
     - Include the GetMax method which allows to pick the biggest value out of the numbers provided
     - Within the GetMax method, create If Statements which validates the above functionality
-20. Building a Better Calculator
+13. Building a Better Calculator
     - Improved calculator functionality
     - Request an input from the user, this input will be the operator 
     - Using if/elif statements, check weather the operators are valid (' + ' , ' - ', ' / ', ' * ')
     - Perfrom the operation and output the results
-22. Switch Statements
-23. While Loops
-24. Building a Guessing Game
-25. For Loops
-26. Building an Exponent Method
-27. 2d Arrays
-28. Comments
-29. Exception Handling
-30. Classes & Objects
-31. Constructors
-32. Object Methods
-33. Getters & Setters
-34. Static Class Attributes
-35. Static Methods & Classes
-36. Inheritance
+14. Switch Statements
+    - Multiway branch statement
+    - Provide a condition based on different cases
+    - Include the break; key word if the case is met
+    - Include a default condition if none of the cases are met
+15. While Loops
+    - Execute code if the condition at the beginning of the while loops is true
+    - For a Do-While loop, execute the code first and then check if the condition is true
+25. Building a Guessing Game
+26. For Loops
+27. Building an Exponent Method
+28. 2d Arrays
+29. Comments
+30. Exception Handling
+31. Classes & Objects
+32. Constructors
+33. Object Methods
+34. Getters & Setters
+35. Static Class Attributes
+36. Static Methods & Classes
+37. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
