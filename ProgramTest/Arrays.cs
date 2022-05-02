@@ -8,6 +8,7 @@ namespace ProgramTest
         {
             int[] luckyNumbers = { 1, 2, 3, 4 };
 
+
             Console.WriteLine(luckyNumbers[0] + " " + luckyNumbers[1] + " " + luckyNumbers[2] + " " + luckyNumbers[3]);
 
             // Assigning values based on the index of the array
@@ -18,6 +19,13 @@ namespace ProgramTest
 
             Console.WriteLine(luckyNumbers[0] + " " + luckyNumbers[1] + " " + luckyNumbers[2] + " " + luckyNumbers[3]);
 
+            string[] people = new string[5];
+
+            people[0] = "Jim";
+            people[1] = "John";
+            people[2] = "Mike";
+            people[3] = "Alice";
+            people[4] = "Lucy";
 
         }
 
