@@ -4,7 +4,7 @@ namespace ProgramTest
     class Arrays
     {
 
-        private static void Main(string[] args)
+        private static void Main5(string[] args)
         {
             int[] luckyNumbers = { 1, 2, 3, 4 };
 
