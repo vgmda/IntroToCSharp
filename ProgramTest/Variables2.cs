@@ -4,7 +4,7 @@ namespace ProgramTest
     class EmptyClass
     {
 
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             string phrase = "Test String";
 
@@ -24,6 +24,9 @@ namespace ProgramTest
             Console.WriteLine(phrase.IndexOf("s"));
             Console.WriteLine(phrase.Substring(5));
             Console.WriteLine(phrase.Substring(phrase.IndexOf("String")));
+
+
+
 
         }
 
