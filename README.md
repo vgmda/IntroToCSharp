@@ -15,29 +15,31 @@
 5. Getting User Input
     - Asking user for input, printing it using Console.ReadLine() & Console.WriteLine() methods
     - Convert string input to int using Convert.ToInt32()
-11. Building a Calculator
-12. Building a Mad Lib
-13. Arrays
-14. Methods
-15. Return Statement
-16. If Statements
-17. If Statements (con't)
-18. Building a Better Calculator
-19. Switch Statements
-20. While Loops
-21. Building a Guessing Game
-22. For Loops
-23. Building an Exponent Method
-24. 2d Arrays
-25. Comments
-26. Exception Handling
-27. Classes & Objects
-28. Constructors
-29. Object Methods
-30. Getters & Setters
-31. Static Class Attributes
-32. Static Methods & Classes
-33. Inheritance
+6. Building a Calculator
+    - Use the Convert. method (from string to int, double, decimal etc.)
+    - Output the sum of two values (Doubles) via Console.WriteLine method
+13. Building a Mad Lib
+14. Arrays
+15. Methods
+16. Return Statement
+17. If Statements
+18. If Statements (con't)
+19. Building a Better Calculator
+20. Switch Statements
+21. While Loops
+22. Building a Guessing Game
+23. For Loops
+24. Building an Exponent Method
+25. 2d Arrays
+26. Comments
+27. Exception Handling
+28. Classes & Objects
+29. Constructors
+30. Object Methods
+31. Getters & Setters
+32. Static Class Attributes
+33. Static Methods & Classes
+34. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
