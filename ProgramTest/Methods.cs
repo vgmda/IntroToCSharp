@@ -10,6 +10,9 @@ namespace ProgramTest
             Prompt("John", 22);
             Prompt("Alice", 26);
 
+
+            int cubedNumber = cube(5);
+            Console.WriteLine(cubedNumber);
         }
 
         static void Prompt(string name, int age)
@@ -17,6 +20,12 @@ namespace ProgramTest
             Console.WriteLine("Hello " + name + " you are " + age + " years old.");
         }
 
+
+        static int cube(int num)
+        {
+            int result = num * num * num;
+            return result;
+        }
     }
 }
 
