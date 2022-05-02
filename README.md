@@ -18,7 +18,9 @@
 6. Building a Calculator
     - Use the Convert.ToDouble() method (from string to int, double, decimal etc.)
     - Output the sum of two values (Doubles) via Console.WriteLine() method
-13. Building a Mad Lib
+7. Building a Mad Lib
+    - Reading inputs from the user using Console.ReadLine()
+    - Mixing the outputs using Console.WriteLine()
 14. Arrays
 15. Methods
 16. Return Statement
