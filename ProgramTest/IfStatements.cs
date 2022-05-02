@@ -4,7 +4,7 @@ namespace ProgramTest
     class IfStatements
     {
 
-        private static void Main(string[] args)
+        private static void Main3(string[] args)
         {
             /*  Declare bools
              *  Check if the corresponding bools are true or false
