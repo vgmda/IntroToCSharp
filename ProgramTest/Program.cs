@@ -25,9 +25,6 @@ namespace ProgramTest
             Console.WriteLine("He really like the name " + characterName);
             Console.WriteLine("But didn't like being " + characterAge);
 
-
-
-
         }
 
     }

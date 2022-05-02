@@ -4,7 +4,7 @@ namespace ProgramTest
     class MadLib
     {
 
-        private static void Main(string[] args)
+        private static void Main4(string[] args)
         {
             string color, pluralNoun, celebrity;
 
