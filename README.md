@@ -31,24 +31,28 @@
     - Return the arguments based on the method type
     - List the arguments in parentheses
     - Call the method inside main()
-17. If Statements
-18. If Statements (con't)
-19. Building a Better Calculator
-20. Switch Statements
-21. While Loops
-22. Building a Guessing Game
-23. For Loops
-24. Building an Exponent Method
-25. 2d Arrays
-26. Comments
-27. Exception Handling
-28. Classes & Objects
-29. Constructors
-30. Object Methods
-31. Getters & Setters
-32. Static Class Attributes
-33. Static Methods & Classes
-34. Inheritance
+11. If Statements
+    - Test the if statements results based on different bool value (true or false)
+    - Comparison operators ('==', '!=', '<', '>', '<=', '>=')
+12. If Statements (con't)
+    - Include the GetMax method which allows to pick the biggest value out of the numbers provided
+    - Within the GetMax method, create If Statements which validates the above functionality
+20. Building a Better Calculator
+21. Switch Statements
+22. While Loops
+23. Building a Guessing Game
+24. For Loops
+25. Building an Exponent Method
+26. 2d Arrays
+27. Comments
+28. Exception Handling
+29. Classes & Objects
+30. Constructors
+31. Object Methods
+32. Getters & Setters
+33. Static Class Attributes
+34. Static Methods & Classes
+35. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
