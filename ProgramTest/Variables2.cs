@@ -1,10 +1,10 @@
 ﻿using System;
 namespace ProgramTest
 {
-    class EmptyClass
+    class Variables2
     {
 
-        static void Main2(string[] args)
+        private static void Main2(string[] args)
         {
             string phrase = "Test String";
 
