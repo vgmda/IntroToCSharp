@@ -38,21 +38,25 @@
     - Include the GetMax method which allows to pick the biggest value out of the numbers provided
     - Within the GetMax method, create If Statements which validates the above functionality
 20. Building a Better Calculator
-21. Switch Statements
-22. While Loops
-23. Building a Guessing Game
-24. For Loops
-25. Building an Exponent Method
-26. 2d Arrays
-27. Comments
-28. Exception Handling
-29. Classes & Objects
-30. Constructors
-31. Object Methods
-32. Getters & Setters
-33. Static Class Attributes
-34. Static Methods & Classes
-35. Inheritance
+    - Improved calculator functionality
+    - Request an input from the user, this input will be the operator 
+    - Using if/elif statements, check weather the operators are valid (' + ' , ' - ', ' / ', ' * ')
+    - Perfrom the operation and output the results
+22. Switch Statements
+23. While Loops
+24. Building a Guessing Game
+25. For Loops
+26. Building an Exponent Method
+27. 2d Arrays
+28. Comments
+29. Exception Handling
+30. Classes & Objects
+31. Constructors
+32. Object Methods
+33. Getters & Setters
+34. Static Class Attributes
+35. Static Methods & Classes
+36. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
