@@ -5,35 +5,39 @@
 
 1. Variables
     - Displaying basic outputs through Console.WriteLine and adding variables (string, int)
-3. Data Types
+2. Data Types
     - Reviewing data types such as: int, double, long, float, string, bool, char.
-5. Working With Strings
+3. Working With Strings
     - Working with Strings (string methods e.g .Length(), .ToUpper(), .ToLower(), .Contains() etc.)
-7. Working With Numbers
-8. Getting User Input
-9. Building a Calculator
-10. Building a Mad Lib
-11. Arrays
-12. Methods
-13. Return Statement
-14. If Statements
-15. If Statements (con't)
-16. Building a Better Calculator
-17. Switch Statements
-18. While Loops
-19. Building a Guessing Game
-20. For Loops
-21. Building an Exponent Method
-22. 2d Arrays
-23. Comments
-24. Exception Handling
-25. Classes & Objects
-26. Constructors
-27. Object Methods
-28. Getters & Setters
-29. Static Class Attributes
-30. Static Methods & Classes
-31. Inheritance
+4. Working With Numbers
+    - Working with Numbers (Mathematical calculations using variables)
+    - Math() methods, Math.Abs(), Math.Pow(), Math.Sqrt(), Math.Max/Min(), Math.Round()
+5. Getting User Input
+    - Asking user for input, printing it using Console.ReadLine() & Console.WriteLine() methods
+    - Convert string input to int using Convert.ToInt32()
+11. Building a Calculator
+12. Building a Mad Lib
+13. Arrays
+14. Methods
+15. Return Statement
+16. If Statements
+17. If Statements (con't)
+18. Building a Better Calculator
+19. Switch Statements
+20. While Loops
+21. Building a Guessing Game
+22. For Loops
+23. Building an Exponent Method
+24. 2d Arrays
+25. Comments
+26. Exception Handling
+27. Classes & Objects
+28. Constructors
+29. Object Methods
+30. Getters & Setters
+31. Static Class Attributes
+32. Static Methods & Classes
+33. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
