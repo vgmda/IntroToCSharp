@@ -4,7 +4,7 @@ namespace ProgramTest
     class Calculator
     {
 
-        private static void Main(string[] args)
+        private static void Main3(string[] args)
         {
             Console.WriteLine("Enter a number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
