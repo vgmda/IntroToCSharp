@@ -4,7 +4,7 @@ namespace ProgramTest
     class SwitchStatements
     {
 
-        private static void Main(string[] args)
+        private static void Main33(string[] args)
         {
             Console.WriteLine(GetDay(0));
 
