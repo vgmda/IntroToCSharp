@@ -21,7 +21,9 @@
 7. Building a Mad Lib
     - Reading inputs from the user using Console.ReadLine()
     - Mixing the outputs using Console.WriteLine()
-14. Arrays
+8. Arrays
+    - Declare arrays
+    - Alter the indexes of an array
 15. Methods
 16. Return Statement
 17. If Statements
