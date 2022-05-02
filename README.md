@@ -16,8 +16,8 @@
     - Asking user for input, printing it using Console.ReadLine() & Console.WriteLine() methods
     - Convert string input to int using Convert.ToInt32()
 6. Building a Calculator
-    - Use the Convert. method (from string to int, double, decimal etc.)
-    - Output the sum of two values (Doubles) via Console.WriteLine method
+    - Use the Convert.ToDouble() method (from string to int, double, decimal etc.)
+    - Output the sum of two values (Doubles) via Console.WriteLine() method
 13. Building a Mad Lib
 14. Arrays
 15. Methods
