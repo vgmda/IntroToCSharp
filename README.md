@@ -61,7 +61,7 @@
     - Used for loop to loop through powNum times until de condition is met
     - Within the loop, multiplied the base number by itself
 19. 2d Arrays
-    - Added a 2d array numberGrid and printed its contents using indexe values
+    - Added a 2d array numberGrid and printed its contents using index values
 33. Comments
 34. Exception Handling
 35. Classes & Objects
