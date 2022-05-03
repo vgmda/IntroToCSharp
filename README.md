@@ -50,19 +50,24 @@
 15. While Loops
     - Execute code if the condition at the beginning of the while loops is true
     - For a Do-While loop, execute the code first and then check if the condition is true
-25. Building a Guessing Game
-26. For Loops
-27. Building an Exponent Method
-28. 2d Arrays
-29. Comments
-30. Exception Handling
-31. Classes & Objects
-32. Constructors
-33. Object Methods
-34. Getters & Setters
-35. Static Class Attributes
-36. Static Methods & Classes
-37. Inheritance
+16. Building a Guessing Game
+    - Used the while loop to ask the user for the guess word until it matches with the secret word
+    - To get rid if infinite looping, I modified the program so that the user only has 3 lives
+    - If statements validate the amount of lives left and prints the corresponding message
+17. For Loops
+    - Implemented a for loop, looked at how to print all indexes of an array using the loop
+18. Building an Exponent Method
+    - 
+31. 2d Arrays
+32. Comments
+33. Exception Handling
+34. Classes & Objects
+35. Constructors
+36. Object Methods
+37. Getters & Setters
+38. Static Class Attributes
+39. Static Methods & Classes
+40. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
