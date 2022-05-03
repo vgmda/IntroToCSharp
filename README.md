@@ -64,7 +64,9 @@
     - Added a 2d array numberGrid and printed its contents using array index values
 20. Comments
     - Reviewed the addition of comments using the // and /* */
-34. Exception Handling
+21. Exception Handling
+    - Acquainted myself with the exception handling methods such as try {}, catch {}, finally {}
+    - Looked at different types of exceptions such as DivideByZeroException, FormatException
 35. Classes & Objects
 36. Constructors
 37. Object Methods
