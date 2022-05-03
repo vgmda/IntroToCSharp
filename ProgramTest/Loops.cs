@@ -25,9 +25,8 @@ namespace ProgramTest
             //For loop
             int[] luckyNumbers = { 4, 8, 15, 16, 23, 45 };
 
-            for (int j = 0; j <= 5; j++)
+            for (int j = 0; j < luckyNumbers.Length; j++)
             {
-
                 Console.WriteLine(luckyNumbers[j]);
             }
         }
