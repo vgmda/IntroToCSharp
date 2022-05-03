@@ -3,7 +3,7 @@ namespace ProgramTest
 {
     class Loops
     {
-        private static void Main3(string[] args)
+        private static void Main(string[] args)
         {
             // While loop
             int index = 1;
@@ -22,6 +22,14 @@ namespace ProgramTest
                 i++;
             } while (i <= 5);
 
+            //For loop
+            int[] luckyNumbers = { 4, 8, 15, 16, 23, 45 };
+
+            for (int j = 0; j <= 5; j++)
+            {
+
+                Console.WriteLine(luckyNumbers[j]);
+            }
         }
 
     }

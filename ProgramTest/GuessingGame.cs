@@ -4,10 +4,11 @@ namespace ProgramTest
     class GuessingGame
     {
 
-        private static void Main(string[] args)
+        private static void Main3(string[] args)
         {
             string secretWord = "giraffe";
             string guess = "";
+            // Guess Count
             int i = 3;
 
             Console.WriteLine("Numer of guesses left " + i);
@@ -32,8 +33,6 @@ namespace ProgramTest
                 }
 
             }
-
-
 
 
             /*
