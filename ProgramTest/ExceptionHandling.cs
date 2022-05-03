@@ -22,6 +22,10 @@ namespace ProgramTest
             {
                 Console.WriteLine(e.Message);
             }
+            finally
+            {
+                // Do Something
+            }
 
 
         }
