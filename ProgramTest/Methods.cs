@@ -4,7 +4,7 @@ namespace ProgramTest
     class Methods
     {
 
-        private static void Main(string[] args)
+        private static void Main32(string[] args)
         {
             // Prompt("Mike", 33);
             // Prompt("John", 22);

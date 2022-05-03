@@ -4,12 +4,12 @@ namespace ProgramTest
     class Arrays
     {
 
-        private static void Main5(string[] args)
+        private static void Main(string[] args)
         {
             int[] luckyNumbers = { 1, 2, 3, 4 };
 
 
-            Console.WriteLine(luckyNumbers[0] + " " + luckyNumbers[1] + " " + luckyNumbers[2] + " " + luckyNumbers[3]);
+            //Console.WriteLine(luckyNumbers[0] + " " + luckyNumbers[1] + " " + luckyNumbers[2] + " " + luckyNumbers[3]);
 
             // Assigning values based on the index of the array
             luckyNumbers[0] = 100;
@@ -17,7 +17,7 @@ namespace ProgramTest
             luckyNumbers[2] = 300;
             luckyNumbers[3] = 400;
 
-            Console.WriteLine(luckyNumbers[0] + " " + luckyNumbers[1] + " " + luckyNumbers[2] + " " + luckyNumbers[3]);
+            //Console.WriteLine(luckyNumbers[0] + " " + luckyNumbers[1] + " " + luckyNumbers[2] + " " + luckyNumbers[3]);
 
             string[] people = new string[5];
 
@@ -26,6 +26,16 @@ namespace ProgramTest
             people[2] = "Mike";
             people[3] = "Alice";
             people[4] = "Lucy";
+
+
+            // 2d Arrays
+            int[,] numberGrid = {
+                {1, 2 },
+                {3, 4 },
+                {5, 6 }
+            };
+
+            Console.WriteLine(numberGrid[2, 0]);
 
         }
 
