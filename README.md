@@ -62,7 +62,8 @@
     - Within the loop, multiplied the base number by itself
 19. 2d Arrays
     - Added a 2d array numberGrid and printed its contents using array index values
-33. Comments
+20. Comments
+    - Reviewed the addition of comments using the // and /* */
 34. Exception Handling
 35. Classes & Objects
 36. Constructors
