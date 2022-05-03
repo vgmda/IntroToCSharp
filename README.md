@@ -57,17 +57,20 @@
 17. For Loops
     - Implemented a for loop, looked at how to print all indexes of an array using the loop
 18. Building an Exponent Method
-    - 
-31. 2d Arrays
-32. Comments
-33. Exception Handling
-34. Classes & Objects
-35. Constructors
-36. Object Methods
-37. Getters & Setters
-38. Static Class Attributes
-39. Static Methods & Classes
-40. Inheritance
+    - Created an Exponent Method GetPow() this includes the base number and the power number
+    - Use for loop to loop through powNum times until de condition is met
+    - Within the loop, multiply the base number by itself
+19. 2d Arrays
+    - Added a 2d array numberGrid and printed its content using indexe values
+33. Comments
+34. Exception Handling
+35. Classes & Objects
+36. Constructors
+37. Object Methods
+38. Getters & Setters
+39. Static Class Attributes
+40. Static Methods & Classes
+41. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
