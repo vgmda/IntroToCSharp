@@ -4,15 +4,17 @@ namespace ProgramTest
     class Methods
     {
 
-        private static void Main6(string[] args)
+        private static void Main(string[] args)
         {
-            Prompt("Mike", 33);
-            Prompt("John", 22);
-            Prompt("Alice", 26);
+            // Prompt("Mike", 33);
+            // Prompt("John", 22);
+            //Prompt("Alice", 26);
 
 
-            int cubedNumber = cube(5);
-            Console.WriteLine(cubedNumber);
+            // int cubedNumber = cube(5);
+            // Console.WriteLine(cubedNumber);
+
+            Console.WriteLine(GetPow(3, 2));
         }
 
         static void Prompt(string name, int age)
@@ -24,6 +26,19 @@ namespace ProgramTest
         static int cube(int num)
         {
             int result = num * num * num;
+            return result;
+        }
+
+        // Exponent Method
+        static int GetPow(int baseNum, int powNum)
+        {
+            int result = 1;
+
+            for (int i = 0; i < powNum; i++)
+            {
+                result = result * baseNum;
+            }
+
             return result;
         }
     }
