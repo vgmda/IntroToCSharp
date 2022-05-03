@@ -53,15 +53,15 @@
 16. Building a Guessing Game
     - Used the while loop to ask the user for the guess word until it matches with the secret word
     - To get rid if infinite looping, I modified the program so that the user only has 3 lives
-    - If statements validate the amount of lives left and prints the corresponding message
+    - If statements validated the amount of lives left and prints the corresponding message
 17. For Loops
     - Implemented a for loop, looked at how to print all indexes of an array using the loop
 18. Building an Exponent Method
     - Created an Exponent Method GetPow() this includes the base number and the power number
-    - Use for loop to loop through powNum times until de condition is met
-    - Within the loop, multiply the base number by itself
+    - Used for loop to loop through powNum times until de condition is met
+    - Within the loop, multiplied the base number by itself
 19. 2d Arrays
-    - Added a 2d array numberGrid and printed its content using indexe values
+    - Added a 2d array numberGrid and printed its contents using indexe values
 33. Comments
 34. Exception Handling
 35. Classes & Objects
