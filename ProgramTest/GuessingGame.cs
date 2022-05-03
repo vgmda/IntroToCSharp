@@ -8,19 +8,35 @@ namespace ProgramTest
         {
             string secretWord = "giraffe";
             string guess = "";
+            int i = 3;
 
-            /*
-            while (guess != secretWord)
+            Console.WriteLine("Numer of guesses left " + i);
+            while (guess != secretWord && i != 0)
             {
+
                 Console.Write("Enter guess: ");
                 guess = Console.ReadLine();
+                i--;
+
+                if (guess == secretWord)
+                {
+                    Console.WriteLine("You guessed the secret word!");
+                }
+                else if (i == 0)
+                {
+                    Console.WriteLine("You ran out of lives!");
+                }
+                else
+                {
+                    Console.WriteLine("Numer of guesses left " + i);
+                }
 
             }
 
-            Console.WriteLine("You guessed the secret word!");
-            
-            */
 
+
+
+            /*
             do
             {
                 Console.Write("Enter guess: ");
@@ -28,6 +44,7 @@ namespace ProgramTest
 
             } while (secretWord != guess);
             Console.WriteLine("You guessed the secret word!");
+            */
         }
     }
 }
