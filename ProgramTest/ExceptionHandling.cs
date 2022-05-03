@@ -18,6 +18,10 @@ namespace ProgramTest
             {
                 Console.WriteLine(e.Message);
             }
+            catch (FormatException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
 
         }
