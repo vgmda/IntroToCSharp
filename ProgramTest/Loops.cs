@@ -3,7 +3,7 @@ namespace ProgramTest
 {
     class Loops
     {
-        private static void Main(string[] args)
+        private static void Main3(string[] args)
         {
             // While loop
             int index = 1;
