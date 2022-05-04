@@ -32,10 +32,15 @@ namespace ProgramTest
             // Console.WriteLine(avengers.Rating);
 
             Song holiday = new Song("Holiday", "Green Day", 200);
-            Console.WriteLine(Song.songCount);
+            //Console.WriteLine(Song.songCount);
             Song kashmir = new Song("Kashmir", "Led Zeppelin", 150);
-            Console.WriteLine(Song.songCount);
-            Console.WriteLine(kashmir.getSongCount());
+            //Console.WriteLine(Song.songCount);
+            //Console.WriteLine(kashmir.getSongCount());
+
+
+
+            //Calling the static method without the need to create a object
+            UsefulTools.SayHi("John");
 
         }
 

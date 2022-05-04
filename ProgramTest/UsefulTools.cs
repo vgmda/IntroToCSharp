@@ -1,7 +1,7 @@
 ﻿using System;
 namespace ProgramTest
 {
-    public class UsefulTools
+    public static class UsefulTools
     {
         public static void SayHi(string name)
         {
