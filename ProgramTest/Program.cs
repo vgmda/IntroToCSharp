@@ -10,26 +10,29 @@ namespace ProgramTest
             // Declare Book object (an instance of a Book Class)
             Book book1 = new Book("Harry Potter", "JK Rowling", 400);
 
-            //book1.title = "Harry Potter";
-            //book1.author = "JK Rowling";
-            //book1.pages = 400;
+            // book1.title = "Harry Potter";
+            // book1.author = "JK Rowling";
+            // book1.pages = 400;
 
             Book book2 = new Book("Lord Of the Rings", "Tolkein", 700);
-            //book2.title = "Lord Of the Rings";
-            //book2.author = "Tolkein";
-            //book2.pages = 700;
+            // book2.title = "Lord Of the Rings";
+            // book2.author = "Tolkein";
+            // book2.pages = 700;
 
             Student student1 = new Student("Jim", "Business", 2.8);
             Student student2 = new Student("Pam", "Art", 3.6);
 
 
-            //Console.WriteLine(student1.HasHonors());
-            //Console.WriteLine(student2.HasHonors());
+            // Console.WriteLine(student1.HasHonors());
+            // Console.WriteLine(student2.HasHonors());
 
             Movie avengers = new Movie("The Avengers", "Joss Whedon", "PG");
             Movie shrek = new Movie("Shrek", "Adam Adamson", "PG");
 
-            Console.WriteLine(avengers.Rating);
+            // Console.WriteLine(avengers.Rating);
+
+            Song holiday = new Song("Holiday", "Green Day", 200);
+            Song kashmir = new Song("Kashmir", "Led Zeppelin", 150);
 
         }
 

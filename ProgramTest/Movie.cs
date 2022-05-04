@@ -17,7 +17,7 @@ namespace ProgramTest
         }
 
 
-        // Propreties for Rating
+        // Properties for Rating
 
         public string Rating
         {
