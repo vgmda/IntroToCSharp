@@ -73,12 +73,13 @@
     - Declared book objects which are an instance of a class
     - Created book attributes such as (title, author, pages) and assigned a corresponding piece of data
     - Displayed the individual attributes via Console.WriteLine() method
-36. Constructors
+23. Constructors
     - Whenever a class is created, its constructor is called
     - A class may have multiple constructors that take different arguments
     - Constructors enable the user to set default values, limit instantiation
     - Declared a Book() constructor and passed the following attributes (title = aTitle, author = aAuthor, pages = aPages)
-38. Object Methods
+24. Object Methods
+    - T
 39. Getters & Setters
 40. Static Class Attributes
 41. Static Methods & Classes
