@@ -5,6 +5,7 @@ namespace ProgramTest
     {
         public string title;
         public string director;
+        // private - This variable will only be accessible within this class
         private string rating;
 
 
@@ -12,8 +13,34 @@ namespace ProgramTest
         {
             title = aTitle;
             director = aDirector;
-            rating = aRating;
+            Rating = aRating;
         }
+
+
+        // Propreties for Rating
+
+        public string Rating
+        {
+            get { return rating; }
+            set
+            {
+                if (value == "G" || value == "PG" || value == "PG-13" || value == "R" || value == "NR")
+                {
+                    rating = value;
+                }
+                else
+                {
+                    rating = "NR";
+                }
+            }
+        }
+
+
+
     }
+
+
+
+
 }
 
