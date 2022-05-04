@@ -15,6 +15,16 @@ namespace ProgramTest
             gpa = aGpa;
 
         }
+
+        // Declare method
+        public bool HasHonors()
+        {
+            if (gpa >= 3.5)
+            {
+                return true;
+            }
+            return false;
+        }
     }
 }
 
