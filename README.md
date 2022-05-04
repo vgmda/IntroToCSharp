@@ -86,7 +86,10 @@
     - Private variables can only be accessed within the same class (an outside class has no access to it)
     - Within get(), I returned the rating variable to allow the user to see the rating
     - Within set(), I created an if statement which checks if the rating is within the allowed set of ratings
-40. Static Class Attributes
+26. Static Class Attributes
+    - Static attribute acts as a global variable for that specific class and not for individual objects
+    - Static attributes can be altered within the constructor
+    - It is possible to create a method for the static attribute which then can be used within the objects itself
 41. Static Methods & Classes
 42. Inheritance
 
