@@ -81,7 +81,11 @@
 24. Object Methods
     - Declared a HasHonors() method which allows to check if a student fits within the validation of that method
     - This method can be called within the main() method, like this student.HasHonors()
-39. Getters & Setters
+25. Getters & Setters aka C# Properties (Get & Set)
+    - Getters and setters are methods used to declare or obtain the values of variables, usually private ones
+    - Private variables can only be accessed within the same class (an outside class has no access to it)
+    - Within get(), I returned the rating variable to allow the user to see the rating
+    - Within set(), I created an if statement which checks if the rating is within the allowed set of ratings
 40. Static Class Attributes
 41. Static Methods & Classes
 42. Inheritance
