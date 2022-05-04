@@ -40,7 +40,18 @@ namespace ProgramTest
 
 
             //Calling the static method without the need to create a object
-            UsefulTools.SayHi("John");
+            //UsefulTools.SayHi("John");
+
+
+            // Chef is referred to as Super Class
+            // ItalianChef is referred to as Sub Class
+            Chef chef = new Chef();
+            chef.MakeChicken();
+
+            ItalianChef italianChef = new ItalianChef();
+            italianChef.MakeChicken();
+            italianChef.MakePasta();
+
 
         }
 
