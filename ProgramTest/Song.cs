@@ -18,6 +18,11 @@ namespace ProgramTest
             songCount++;
 
         }
+
+        public int getSongCount()
+        {
+            return songCount;
+        }
     }
 }
 

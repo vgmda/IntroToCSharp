@@ -35,6 +35,7 @@ namespace ProgramTest
             Console.WriteLine(Song.songCount);
             Song kashmir = new Song("Kashmir", "Led Zeppelin", 150);
             Console.WriteLine(Song.songCount);
+            Console.WriteLine(kashmir.getSongCount());
 
         }
 
