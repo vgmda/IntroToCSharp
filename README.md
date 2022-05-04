@@ -67,7 +67,12 @@
 21. Exception Handling
     - Acquainted myself with the exception handling methods such as try {}, catch {}, finally {}
     - Looked at different types of exceptions such as DivideByZeroException, FormatException
-35. Classes & Objects
+22. Classes & Objects
+    - Each object consists of: State, Behavior and Identity
+    - When an object of a class is created, the class is instantiated
+    - Declared book objects which are an instance of a class
+    - Created book attributes such as (title, author, pages) and assigned a corresponding piece of data
+    - Displayed the individual attributes via Console.WriteLine() method
 36. Constructors
 37. Object Methods
 38. Getters & Setters
