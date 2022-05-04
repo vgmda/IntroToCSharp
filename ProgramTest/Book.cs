@@ -9,10 +9,12 @@ namespace ProgramTest
         public int pages;
 
 
-        // Constructor
-        public Book(string name)
+        // Book Constructor
+        public Book(string aTitle, string aAuthor, int aPages)
         {
-            Console.WriteLine(name);
+            title = aTitle;
+            author = aAuthor;
+            pages = aPages;
         }
     }
 }
