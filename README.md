@@ -79,7 +79,8 @@
     - Constructors enable the user to set default values, limit instantiation
     - Declared a Book() constructor and passed the following attributes (title = aTitle, author = aAuthor, pages = aPages)
 24. Object Methods
-    - T
+    - Declared a HasHonors() method which allows to check if a student fits within the validation of that method
+    - This method can be called within the main() method, like this student.HasHonors()
 39. Getters & Setters
 40. Static Class Attributes
 41. Static Methods & Classes
