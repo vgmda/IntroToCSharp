@@ -9,6 +9,12 @@ namespace ProgramTest
             Console.WriteLine("The Chef makes pasta");
         }
 
+        // override - means override the method from the Super Class
+        public override void MakeSpecialDish()
+        {
+            Console.WriteLine("The Chef makes pizza");
+        }
+
     }
 }
 

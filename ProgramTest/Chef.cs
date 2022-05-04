@@ -13,6 +13,8 @@ namespace ProgramTest
             Console.WriteLine("The Chef makes salad");
         }
 
+
+        // virtual - this method can be overwritten in a Sub Class
         public virtual void MakeSpecialDish()
         {
             Console.WriteLine("The Chef makes bbq ribs");

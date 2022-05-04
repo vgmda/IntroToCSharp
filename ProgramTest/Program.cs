@@ -47,10 +47,11 @@ namespace ProgramTest
             // ItalianChef is referred to as Sub Class
             Chef chef = new Chef();
             chef.MakeChicken();
+            chef.MakeSpecialDish();
 
             ItalianChef italianChef = new ItalianChef();
             italianChef.MakeChicken();
-            italianChef.MakePasta();
+            italianChef.MakeSpecialDish();
 
 
         }
