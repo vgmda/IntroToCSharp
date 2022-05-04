@@ -7,6 +7,14 @@ namespace ProgramTest
         {
             // AgeName();
 
+            // Declare Book object (an instance of a Book Class)
+            Book book1 = new Book();
+            book1.title = "Harry Potter";
+            book1.author = "JK Rowling";
+            book1.pages = 400;
+
+            Console.WriteLine(book1.title);
+
         }
 
         static void AgeName()
@@ -15,7 +23,7 @@ namespace ProgramTest
             int characterAge;
             string temp;
 
-            //Get user input
+            // Get user input
             Console.WriteLine("Enter the name: ");
             characterName = Console.ReadLine();
             Console.WriteLine("Enter the age: ");
