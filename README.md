@@ -74,11 +74,15 @@
     - Created book attributes such as (title, author, pages) and assigned a corresponding piece of data
     - Displayed the individual attributes via Console.WriteLine() method
 36. Constructors
-37. Object Methods
-38. Getters & Setters
-39. Static Class Attributes
-40. Static Methods & Classes
-41. Inheritance
+    - Whenever a class is created, its constructor is called
+    - A class may have multiple constructors that take different arguments
+    - Constructors enable the user to set default values, limit instantiation
+    - Declared a Book() constructor and passed the following attributes (title = aTitle, author = aAuthor, pages = aPages)
+38. Object Methods
+39. Getters & Setters
+40. Static Class Attributes
+41. Static Methods & Classes
+42. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
