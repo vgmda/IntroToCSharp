@@ -94,6 +94,9 @@
     - Static methods allows that method to be accessed within a different class without an object attached to it
     - If a class becomes static, then we cannot create a instance of that class therefore cannot be instantiated
 43. Inheritance
+    - This allows to create a new class from an existing class
+    - The derived class inherits the fields and methods of the base class
+    - The use of virtual and override key words for methods, allows the Sub Class to override the method of a Super Class
 
 
 ###### *Reference: https://www.freecodecamp.org*
