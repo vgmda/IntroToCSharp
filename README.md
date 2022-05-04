@@ -91,7 +91,9 @@
     - Static attributes can be altered within the constructor
     - It is possible to create a method for the static attribute which then can be used within the objects itself
 41. Static Methods & Classes
-42. Inheritance
+    - Static methods allows that method to be accessed within a different class without an object attached to it
+    - If a class becomes static, then we cannot create a instance of that class therefore cannot be instantiated
+43. Inheritance
 
 
 ###### *Reference: https://www.freecodecamp.org*
