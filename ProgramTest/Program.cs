@@ -3,7 +3,13 @@ namespace ProgramTest
 {
     class Program
     {
-        private static void Main1(string[] args)
+        private static void Main(string[] args)
+        {
+            // AgeName();
+
+        }
+
+        static void AgeName()
         {
             string characterName;
             int characterAge;
@@ -24,7 +30,6 @@ namespace ProgramTest
             Console.WriteLine("He was " + characterAge + " years old");
             Console.WriteLine("He really like the name " + characterName);
             Console.WriteLine("But didn't like being " + characterAge);
-
         }
 
     }

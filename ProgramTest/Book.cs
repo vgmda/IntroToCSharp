@@ -7,6 +7,7 @@ namespace ProgramTest
         public string author;
         public int pages;
 
+
     }
 }
 
