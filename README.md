@@ -1,5 +1,5 @@
 # Introduction to C# (Basics) using VS
-
+> I wanted to get familiar with C# basics as well as the functionality of Visual Studio. The purpose of learning C# is to be able to build/design .NET applications. It is widely used in web development, mobile app development, windows applications and backend services. I've had past experience with C and C# in the past (used Unity), but I would like to revise the basics. The skills and knowledge gained will be applied to personal projects and the workplace.
 ### Topics covered:
 
 
